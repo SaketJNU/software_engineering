@@ -1,2 +1,3 @@
 # software_engineering
-Debug the code 
+Basic python programs for beginers 
+hellow welcome
