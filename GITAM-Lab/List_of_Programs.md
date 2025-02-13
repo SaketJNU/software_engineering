@@ -23,4 +23,10 @@
      - use len()
 18.  Write a Python program to create a tuple with different data types.:
       - Add items
-      - len() 
+      - len()
+19.  Write a Python program to create a tuple and perform the following methods:
+       - check for item in tuple
+       - Access items
+20.  Write a python program to define a module to find Fibonacci Numbers and import the module to 
+     another program.
+21.   Write a program to double a given number and add two numbers using lambda().
