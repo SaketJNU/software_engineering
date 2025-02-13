@@ -16,11 +16,11 @@
 15.  Write a Python program to sort (ascending order) a dictionary by value.
 16.  Write a Python program to sort (descending order) a dictionary by value.
 17.  Write a Python program Create a dictionary and apply the following methods:
-    a. Print the dictionary items
-    b. access 
-    c. use get()
-    d. change values
-    e. use len()
+     - Print the dictionary items
+     - access
+     - use get()
+     - change values
+     - use len()
 18.Write a Python program to create a tuple with different data types.:
-      a. Add items
-      b. 2) len() 
+      - Add items
+      - len() 
