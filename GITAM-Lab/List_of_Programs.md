@@ -13,5 +13,14 @@
 12.  Write a Python program to Reverse a linked list.
 13.  Write a Python program to find the smallest number in a list number in a list.
 14.  Write a Python program to find the largest number in a list.
-15.  Write a Python script to sort (ascending order a dictionary by value.
-16.  Write a Python script to sort (descending order) a dictionary by value. 
+15.  Write a Python program to sort (ascending order a dictionary by value.
+16.  Write a Python program to sort (descending order) a dictionary by value.
+17.  Write a Python program Create a dictionary and apply the following methods:
+    1) Print the dictionary items
+    2) access 
+    3) use get()
+    4)change values
+    5) use len()
+18.Write a Python program to create a tuple with different data types.:
+      1) Add items
+      2) 2) len() 
