@@ -21,6 +21,6 @@
      - use get()
      - change values
      - use len()
-18.Write a Python program to create a tuple with different data types.:
+18.  Write a Python program to create a tuple with different data types.:
       - Add items
       - len() 
