@@ -8,4 +8,10 @@
 7.  Write a Python program to calculate the length of a string.
 8.  Write a Python program to split and join a string.
 9.  Write a Python program to demonstrate of accessing the string- By using Positive Indexing.
-10.  Write a Python program to demonstrate of accessing the string- By using Negative Indexing  
+10.  Write a Python program to demonstrate of accessing the string- By using Negative Indexing.
+11.  Write a Python program to multiplies all the items in a list.
+12.  Write a Python program to Reverse a linked list.
+13.  Write a Python program to find the smallest number in a list number in a list.
+14.  Write a Python program to find the largest number in a list.
+15.  Write a Python script to sort (ascending order a dictionary by value.
+16.  Write a Python script to sort (descending order) a dictionary by value. 
