@@ -1,0 +1,7 @@
+To create a Python program that reads a text file, extracts all unique words from the file, and prints them in alphabetical order, follow these steps:
+
+    Open and read the file.
+    Split the text into words.
+    Remove duplicates (by converting to a set).
+    Sort the words alphabetically.
+    Print the sorted unique words.
