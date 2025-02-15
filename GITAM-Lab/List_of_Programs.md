@@ -30,7 +30,7 @@
 20.  Write a python program to define a module to find Fibonacci Numbers and import the module to 
      another program.
 21.  Write a program that inputs a text file. The program should print all of the unique words in the           file in alphabetical order.
-22.  Write a python program to open and write “hello world” into a file?
+22.  Write a python program to open and write “hello world” into a file.
 23.  Write a python program to write the content “hi python programming” for the above existing file. 
 24.  Write a program to double a given number and add two numbers using lambda().
 25.  Write a function that takes the lengths of three sides: side1, side2 and side3 of the triangle as           the inputfrom the user using input function and return the area and perimeter of the triangle           as atuple. Also, assert that sum of the length of any two sides is greater than the third               side.
